@@ -1,2 +1,3 @@
 *.java linguist-documentation
 *.cpp linguist-documentation
+*.h linguist-documentation

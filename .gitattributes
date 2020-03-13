@@ -1,1 +1,2 @@
-*.* linguist-language=Haxe
+*.java linguist-documentation
+*.cpp linguist-documentation
